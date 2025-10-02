@@ -162,7 +162,7 @@ Validación cruzada estratificada con 3 folds.
 - Sebastian Loza
 - Diana Ñañes
 - Ximena Lindo
-- Luis Cordova
+- Luis Golac
 
   
 ----
