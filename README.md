@@ -160,7 +160,7 @@ Validación cruzada estratificada con 3 folds.
 ## Integrantes
 - Ana Accilio
 - Sebastian Loza
-- Diana Ñañes
+- Diana Ñañez
 - Ximena Lindo
 - Luis Golac
 
@@ -170,5 +170,4 @@ Validación cruzada estratificada con 3 folds.
 ## 9. Referencias
 - Perronnin, F., Sánchez, J., & Mensink, T. (2010). *Improving the Fisher Kernel for Large-Scale Image Classification*. ECCV.  
 - Zhang, J., Marszalek, M., Lazebnik, S., & Schmid, C. (2007). *Local Features and Kernels for Classification of Texture and Object Categories*. IJCV.  
-- Coates, A., Ng, A., & Lee, H. (2011). *An Analysis of Single-Layer Networks in Unsupervised Feature Learning*. AISTATS.  
 
